@@ -11,6 +11,7 @@ Before you begin, ensure you have the following installed:
 ## Steps :
 Clone the repository:
 - git clone <repository-url>
+- cd hrms
 - Install the required packages from requirements.txt:
 - pip install -r requirements.txt
 This will install all the necessary dependencies for your project.
